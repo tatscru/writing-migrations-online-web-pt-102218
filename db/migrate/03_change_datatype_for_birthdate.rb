@@ -1,5 +1,5 @@
 class CreateStudents < ActiveRecord::Migration[5.1]
   def change
-    change_column(students, )
+    change_column(student, students)
     end 
   end 
